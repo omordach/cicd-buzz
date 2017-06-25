@@ -5,4 +5,3 @@ This is a little CI/CD buzz generator program written in Python which was create
 
 App can be found [here](https://hidden-sands-75252.herokuapp.com/).
 
-
