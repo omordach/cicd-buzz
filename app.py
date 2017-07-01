@@ -1,5 +1,5 @@
 import os
-import signal
+#import signal
 from flask import Flask, render_template
 from buzz import generator
 
